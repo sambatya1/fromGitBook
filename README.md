@@ -1,2 +1,0 @@
-# Install Apache web сервер
-
