@@ -4,5 +4,5 @@
   * [On Windows 10](install-apache-web-server/on-windows-10.md)
   * [On Ubuntu](install-apache-web-server/on-ubuntu.md)
 * [SQL](sql/README.md)
-  * [Start](install-apache-web-server/on-windows-10.md)
+  * [Start](index.md)
   * [On Ubuntu](install-apache-web-server/on-ubuntu.md)
